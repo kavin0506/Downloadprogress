@@ -1,0 +1,16 @@
+*{
+	text-align:center;
+}
+#load{
+	width:75%;
+	height:30px;
+	background-color:#bdb3b3;
+	margin:10px auto;
+	position:relative;
+}
+#progress{
+	/* width:5%; */
+	height:30px;
+	background-color:blue;
+	position:absolute;
+}
